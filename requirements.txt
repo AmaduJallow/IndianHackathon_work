@@ -2,10 +2,10 @@
 # aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
 # alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
 # anaconda-client @ file:///C:/ci/anaconda-client_1635342725944/work
-# anaconda-navigator==2.2.0
+anaconda-navigator==2.*
 # anaconda-project @ file:///tmp/build/80754af9/anaconda-project_1637161053845/work
 # anyio @ file:///C:/ci/anyio_1644481921011/work/dist
-appdirs==1.4/4
+appdirs==1.4.4
 # argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
 # argon2-cffi-bindings @ file:///C:/ci/argon2-cffi-bindings_1644551690056/work
 # arrow @ file:///opt/conda/conda-bld/arrow_1649166651673/work
