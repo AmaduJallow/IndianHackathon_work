@@ -45,7 +45,7 @@ clyent==1.2.1
 # colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
 # colorcet @ file:///tmp/build/80754af9/colorcet_1611168489822/work
 comtypes==1.1.10
-conda==4.3.0
+conda==4.2.7
 conda-build==3.21.8
 # conda-content-trust @ file:///tmp/build/80754af9/conda-content-trust_1617045594566/work
 # conda-pack @ file:///tmp/build/80754af9/conda-pack_1611163042455/work
